@@ -1,0 +1,40 @@
+{
+  "name": "book-record-appln",
+  "version": "1.0.0",
+  "description": "book record mgt system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+
+    
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohandevtown/book-record-appln.git"
+  },
+  "author": "rohan kinnal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohandevtown/book-record-appln/issues"
+  },
+  "homepage": "https://github.com/rohandevtown/book-record-appln#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
